@@ -66,10 +66,10 @@ function draw() {
       // knifeSwooshSoundplay();
 
 
-       score=score;
+      //score=score;
       // score=+2;
       // score=2;
-      // score=score+2;
+       score=score+2;
 
     }
     else
